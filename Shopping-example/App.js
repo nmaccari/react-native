@@ -8,7 +8,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.tasksWrapper}>
       <Text style={styles.sectionTitle}>
-        Today's Tasks
+        Making changes here
         <Icon/>
       </Text>
       <View style={styles.item}>
